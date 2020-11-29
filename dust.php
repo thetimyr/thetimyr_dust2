@@ -1,3 +1,4 @@
+<?php 
 <!DOCTYPE html>
 <!-- saved from url=(0021)https://uniferdev.ru/ -->
 <html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -643,4 +644,4 @@ canvas.addEventListener( 'touchmove', function ( e ) {
 		</script>
 
 		  
-	</body></html>
+	</body></html>?>
